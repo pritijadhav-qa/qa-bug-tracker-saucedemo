@@ -1,9 +1,9 @@
 ---
 name: Bug Report
 about: Report a defect found during testing
-title: "[Add to Cart | Cart Details Fail to Load and Remain in Loading State"
+title: "Add to Cart | Cart Details Fail to Load and Remain in Loading State"
 labels: bug
-assignees: 'Vishal Yadav'
+assignees: 'Poonam patil'
 ---
 
 ## Summary
@@ -20,9 +20,9 @@ assignees: 'Vishal Yadav'
 <!-- At least one product is available to add to the cart. -->
 
 ## Steps to Reproduce
-1.Open any product and click Add to Cart.
-2.Click the cart icon at the top.
-3.Observe the cart page.
+1. Open any product and click Add to Cart.
+2. Click the cart icon at the top.
+3. Observe the cart page.
 
 ## Expected Result
 The cart details should open and display the added item.
